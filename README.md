@@ -1,3 +1,4 @@
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/01d0d53b-bdd5-400f-86bf-dfb56c803928)
 This project is to analyze the customer behaviour in the bike industry
 
 Data Preparation and Transformation:
