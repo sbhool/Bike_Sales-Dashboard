@@ -3,9 +3,13 @@ This project is to analyze the customer behaviour in the bike industry
 Data Preparation and Transformation:
 
 1)Duplicate Removal: We began by removing duplicates, eliminating 26 duplicate entries and retaining 1000 unique records.
+
 2)Data Cleaning: The 'Marital Status' and 'Gender' columns were standardized for clarity ('M' to 'Married', 'S' to 'Single', 'F' to 'Female', and 'M' to 'Male').
+
 3)Formatting: The 'Income' column was set as Currency type, and decimal places were removed.
+
 4)New Column Creation: An 'Age Groups' column was introduced, categorizing ages into 'Old', 'Middle Aged', or 'Adolescent' based on an Excel formula.
+
 5)Value Modification: In the 'Commute Distance' column, '10+ Miles' was changed to 'More than 10 Miles' for better interpretation.
 
 Pivot Table Analysis and Visualization::
